@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zeynepyogurtcu
 - 👀 I’m interested in back-end
-- 🌱 I’m currently learning Java and C#
+- 🌱 I’m currently learning Java and SQL
 - 📫 you can reach me with gmail
 
 <!---
